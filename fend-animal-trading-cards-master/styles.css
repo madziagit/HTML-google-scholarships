@@ -1,0 +1,21 @@
+/* add your CSS here */
+
+img {
+            width: 300px;
+            height: 200px;
+            margin: 1em;
+            border: solid;
+            cursor: pointer;
+
+            #card{
+
+            	border: solid;
+            }
+          
+        }
+
+	
+	.animal-list {
+	
+
+	}
